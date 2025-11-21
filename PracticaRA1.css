@@ -184,6 +184,14 @@ h2, h3{
     justify-content: space-around;
     
 }
+.cont4ho p{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px ;
+    padding: 2%;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-top: 2% ;
+}
 /*Cuerpo contacto*/
 .cont1con{
     width: 95%;
